@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Shrivastav</h1>
 <h3 align="center">A passionate MERN Developer from India</h3>
 
-- 🔭 I’m currently working on [GlobalLodge](https://github.com/amancoderhub/GlobalLodge.git)
+- 🔭 I’m currently working on [Mealmate(Food Delivary website)]
 
 - 🌱 I’m currently learning **Full Stack MERN**
 
