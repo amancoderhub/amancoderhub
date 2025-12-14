@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full Stack MERN**
 
-- 📫 How to reach me **saurbhsrivastav6@gamil.com**
+- 📫 How to reach me **[saurbhsrivastav6@gamil.com](https://portfolio-eight-murex-23.vercel.app/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
