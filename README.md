@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aman Shrivastav</h1>
 <h3 align="center">A passionate MERN Developer from India</h3>
 
-- 🔭 I’m currently working on [Mealmate(Food Delivary website)] And also DSA.
+- 🌱 I’m currently learning Full Stack MERN (MongoDB, Express, React, Node.js), Data Structures & Algorithms (350+ LeetCode solved), and exploring DevOps & Cloud (CI/CD, Docker, AWS basics).
 
-- 🌱 I’m currently learning **Full Stack MERN**
+- 💻 I work on building scalable backend-focused web applications, improving problem-solving skills, and strengthening system design fundamentals.
 
 - 📫 How to reach me **[AmanSrivastavfolio](https://portfolio-eight-murex-23.vercel.app/)**
 
