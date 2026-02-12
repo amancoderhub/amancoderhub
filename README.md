@@ -6,6 +6,22 @@
 - 💻 I work on building scalable backend-focused web applications, improving problem-solving skills, and strengthening system design fundamentals.
 
 - 📫 How to reach me **[AmanSrivastavfolio](https://portfolio-eight-murex-23.vercel.app/)**
+- ## 💼 Hire Me
+
+<p align="center">
+  <a href="https://portfolio-eight-murex-23.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-Visit-blue?style=for-the-badge" />
+  </a>
+  
+  <a href="https://drive.google.com/file/d/1R4XWjOqzXHvtmATxPQ-81HKwUTY6JXlm/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/📄 Resume-Download-green?style=for-the-badge" />
+  </a>
+  
+  <a href="mailto:saurbhsrivastav6@gmail.com">
+    <img src="https://img.shields.io/badge/📧 Email-Contact-red?style=for-the-badge" />
+  </a>
+</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -47,4 +63,19 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amancoderhub&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
+## 🧠 DSA & Problem Solving
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LeetCode-350%2B%20Solved-orange?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/Data%20Structures-Strong-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Algorithms-Advanced-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-Daily%20Practice-red?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/AmanSri1761/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/AmanSri1761?theme=dark&font=Nunito&ext=heatmap" />
+  </a>
 </p>
