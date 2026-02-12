@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman Shrivastav</h1>
-<h3 align="center">A passionate MERN Developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 - 🌱 I’m currently learning Full Stack MERN (MongoDB, Express, React, Node.js), Data Structures & Algorithms (350+ LeetCode solved), and exploring DevOps & Cloud (CI/CD, Docker, AWS basics).
 
