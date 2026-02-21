@@ -1,26 +1,55 @@
 <h1 align="center">Hi 👋, I'm Aman Shrivastav</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
-
-- 🌱 I’m currently learning Full Stack MERN (MongoDB, Express, React, Node.js), Data Structures & Algorithms (350+ LeetCode solved), and exploring DevOps & Cloud (CI/CD, Docker, AWS basics).
-
-- 💻 I work on building scalable backend-focused web applications, improving problem-solving skills, and strengthening system design fundamentals.
-
-- 📫 How to reach me **[AmanSrivastavfolio](https://portfolio-eight-murex-23.vercel.app/)**
-- ## 💼 Hire Me
+<h3 align="center">Full Stack Developer | Backend Focused | MERN | DSA | System Design Enthusiast</h3>
 
 <p align="center">
   <a href="https://portfolio-eight-murex-23.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐 Portfolio-Visit-blue?style=for-the-badge" />
   </a>
-  
-  <a href="https://drive.google.com/file/d/1R4XWjOqzXHvtmATxPQ-81HKwUTY6JXlm/view?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/file/d/1R4XWjOqzXHvtmATxPQ-81HKwUTY6JXlm/view" target="_blank">
     <img src="https://img.shields.io/badge/📄 Resume-Download-green?style=for-the-badge" />
   </a>
-  
   <a href="mailto:saurbhsrivastav6@gmail.com">
     <img src="https://img.shields.io/badge/📧 Email-Contact-red?style=for-the-badge" />
   </a>
 </p>
+
+---
+
+## 👨‍💻 Professional Summary
+
+Passionate **Full Stack Developer** with strong backend expertise and problem-solving skills. I build scalable web applications using the **MERN Stack**, design efficient REST APIs, and focus on clean architecture & performance optimization.
+
+✔ Solved **350+ DSA problems** (LeetCode)  
+✔ Backend Focused — APIs, Auth, DB Design, Scalability  
+✔ Strong in **System Design Fundamentals**  
+✔ Exploring **DevOps, Cloud & Scalable Systems and also AI and Data Analyst**  
+✔ Fast Learner | Consistent Builder | Clean Code Advocate  
+
+I love turning ideas into real-world working products 🚀  
+
+---
+
+## 🚀 Open to Work
+
+💼 Actively looking for **Full Stack / Backend / Software Engineer** roles (Fresher / Entry Level)
+
+### Why I'm a Strong Fit
+
+- Strong **MERN Stack Development**
+- **350+ DSA Problems Solved** — Strong Logic & Problem Solving
+- Backend Engineering — REST APIs, JWT Auth, DB Optimization
+- System Design & Scalable Architecture Understanding
+- DevOps Basics — Docker, CI/CD, AWS (Learning & Applying)
+- Clean Code & Production-Level Thinking
+- Fast Learner & Self-Driven Developer
+
+📌 Open to:
+- Full Time Roles  
+- Remote / Onsite  
+- Freelance / Contract  
+
+📫 **Portfolio:** https://portfolio-eight-murex-23.vercel.app/  
+📧 **Email:** saurbhsrivastav6@gmail.com  
 
 
 <h3 align="left">Connect with me:</h3>
