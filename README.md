@@ -108,3 +108,26 @@ I love turning ideas into real-world working products 🚀
     <img src="https://leetcard.jacoblin.cool/AmanSri1761?theme=dark&font=Nunito&ext=heatmap" />
   </a>
 </p>
+
+## 🔥 What I Bring
+
+- Strong Problem Solving & Debugging Skills  
+- Backend & Scalable Thinking  
+- Clean, Maintainable, Production-Ready Code  
+- Performance Optimization Mindset  
+- Fast Learning Ability  
+- Team Collaboration & Communication  
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+<a href="https://twitter.com/amanshr88717988"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30"/></a>
+<a href="https://www.linkedin.com/in/aman-shrivastav-23295928b"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/></a>
+<a href="https://leetcode.com/u/AmanSri1761/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30"/></a>
+</p>
+
+---
+
+⭐ From [Aman Shrivastav](https://github.com/amancoderhub)
