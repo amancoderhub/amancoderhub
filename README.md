@@ -19,15 +19,14 @@
 
 Passionate **Full Stack Developer** with strong backend expertise and problem-solving skills. I build scalable web applications using the **MERN Stack**, design efficient REST APIs, and focus on clean architecture & performance optimization.
 
-✔ Solved **350+ DSA problems** (LeetCode)  
 ✔ Backend Focused — APIs, Auth, DB Design, Scalability  
 ✔ Strong in **System Design Fundamentals**  
 ✔ Exploring **DevOps, Cloud & Scalable Systems and also AI and Data Analyst**  
 ✔ Fast Learner | Consistent Builder | Clean Code Advocate  
 
-I love turning ideas into real-world working products 🚀  
-I am currently learning and working..
-If you want to ask anything reach me out: saurbhsrivastav6@gmail.com
+#I love turning ideas into real-world working products 🚀  
+#I am currently learning and working..
+#If you want to ask anything reach me out: saurbhsrivastav6@gmail.com  
 ---  
 
 📫 **Portfolio:** https://portfolio-eight-murex-23.vercel.app/  
