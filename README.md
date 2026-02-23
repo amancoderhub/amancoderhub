@@ -26,27 +26,9 @@ Passionate **Full Stack Developer** with strong backend expertise and problem-so
 ✔ Fast Learner | Consistent Builder | Clean Code Advocate  
 
 I love turning ideas into real-world working products 🚀  
-
----
-
-## 🚀 Open to Work
-
-💼 Actively looking for **Full Stack / Backend / Software Engineer** roles (Fresher / Entry Level)
-
-### Why I'm a Strong Fit
-
-- Strong **MERN Stack Development**
-- **350+ DSA Problems Solved** — Strong Logic & Problem Solving
-- Backend Engineering — REST APIs, JWT Auth, DB Optimization
-- System Design & Scalable Architecture Understanding
-- DevOps Basics — Docker, CI/CD, AWS (Learning & Applying)
-- Clean Code & Production-Level Thinking
-- Fast Learner & Self-Driven Developer
-
-📌 Open to:
-- Full Time Roles  
-- Remote / Onsite  
-- Freelance / Contract  
+I am currently learning and working..
+If you want to ask anything reach me out: saurbhsrivastav6@gmail.com
+---  
 
 📫 **Portfolio:** https://portfolio-eight-murex-23.vercel.app/  
 📧 **Email:** saurbhsrivastav6@gmail.com  
