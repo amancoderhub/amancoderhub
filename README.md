@@ -67,11 +67,47 @@ Full Stack MERN Developer with **strong backend engineering skills** and a focus
 
 ## ⚙️ Tech Stack
 
-**Frontend:** React.js, JavaScript, TypeScript, Tailwind CSS, Redux  
-**Backend:** Node.js, Express.js, REST APIs, JWT Auth, WebSockets (learning)  
-**Database:** MongoDB, MySQL, Mongoose, Aggregations, Indexing  
-**Tools:** Git, GitHub, Postman, Docker, AWS, Render, Vercel  
-**Concepts:** System Design, Scalable APIs, Security, MVC Architecture, Clean Code  
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react" height="40"/>
+  <img src="https://skillicons.dev/icons?i=js" height="40"/>
+  <img src="https://skillicons.dev/icons?i=ts" height="40"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40"/>
+  <img src="https://skillicons.dev/icons?i=redux" height="40"/>
+</p>
+
+### 🛠 Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40"/>
+  <img src="https://skillicons.dev/icons?i=express" height="40"/>
+  <img src="https://skillicons.dev/icons?i=jwt" height="40"/>
+  <img src="https://skillicons.dev/icons?i=socketio" height="40"/>
+</p>
+
+### 🗄 Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
+</p>
+
+### 🚀 Tools & Deployment
+<p>
+  <img src="https://skillicons.dev/icons?i=git" height="40"/>
+  <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  <img src="https://skillicons.dev/icons?i=postman" height="40"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="40"/>
+  <img src="https://skillicons.dev/icons?i=aws" height="40"/>
+  <img src="https://skillicons.dev/icons?i=vercel" height="40"/>
+</p>
+
+---
+
+### 🧠 Core Concepts
+- 🏗 System Design  
+- ⚡ Scalable APIs  
+- 🔐 Security & Authentication  
+- 🧩 MVC Architecture  
+- 🧼 Clean Code Principles  
 
 ---
 
